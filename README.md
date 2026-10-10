@@ -1,6 +1,6 @@
 # PolyOrderbooks Backtest
 
-[![PyPI version](https://badge.fury.io/py/polyorderbooks-backtest.svg)](https://pypi.org/project/polyorderbooks-backtest/)
+[![PyPI version](https://img.shields.io/pypi/v/polyorderbooks-backtest.svg)](https://pypi.org/project/polyorderbooks-backtest/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/polyorderbooks-backtest)](https://pypi.org/project/polyorderbooks-backtest/)
 [![CI](https://github.com/polyorderbookslabs/polyorderbooks-backtest-python/actions/workflows/ci.yml/badge.svg)](https://github.com/polyorderbookslabs/polyorderbooks-backtest-python/actions/workflows/ci.yml)
 
